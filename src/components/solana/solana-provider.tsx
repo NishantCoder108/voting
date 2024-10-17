@@ -1,4 +1,4 @@
-'use client'
+  'use client'
 
 import dynamic from 'next/dynamic'
 import { AnchorProvider } from '@coral-xyz/anchor'
